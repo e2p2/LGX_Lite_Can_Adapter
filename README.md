@@ -1,7 +1,7 @@
 # LGX_Lite_Can_Adapter
 Including umbilical mount
 
-The LGXtoCANAdapter and LGXtoCanSpacer are to existing desings merged into one...
+The LGXtoCANAdapter and LGXtoCanSpacer are two existing desings merged into one which I'm using to mount a BTT EBB36 to the LGX Lite...
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/toolhead_pcb_to_can
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/LGX_Lite_toolhead_PCB_mount
 
